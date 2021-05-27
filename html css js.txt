@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Aya abd elfatah website</title>
+</head>
+<body>
+<center><font face="AR cena" size="14" color="red" > Welcome to my personal page </center>
+</body>
+</html>
+<body><body bgcolor=black text=red>
+<body>
+<p>name is :Aya abd elfatah  abd elsalam khores <br>my age is 22     </p>
+<p>social situation: married </p>
+<p>Nationality:Egyptian </p>
+<p>Birthday:6/2/1999 </p>
+<P>Religion:Muslim </P>
+<P>Favorite sport: tennis </P>
+<div> <p> student at Bis section faculty of commerce tanta university </p> </div>
+<body>
+<img src="aya.jpg" width="180"
+height="170" alt="this is image">
+</div>
+<div align ="center">
+<p>email is :ayakhores121212@icloud.com <p>
+
+  <A href="javascript:self.close()">أغلق هذه الصفحة</A>
